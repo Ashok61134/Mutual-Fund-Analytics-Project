@@ -1,0 +1,5 @@
+## Project Description
+
+The **Bluestock Mutual Fund Performance Analytics** project is an end-to-end data analytics solution designed to analyze the performance of Indian mutual fund schemes using historical NAV, AUM, investor transaction, benchmark, and market data. The project involves collecting data from multiple sources, validating and cleaning datasets, performing exploratory data analysis (EDA), calculating key financial metrics such as CAGR, Sharpe Ratio, Sortino Ratio, Alpha, Beta, and Maximum Drawdown, and storing the processed data in a structured SQL database.
+
+The analyzed data is visualized through an interactive Power BI dashboard that provides insights into industry trends, fund performance, investor behavior, and SIP growth. By combining Python, SQL, and Power BI, the project demonstrates a complete data analytics workflow—from data ingestion and preprocessing to advanced financial analysis and business intelligence reporting—helping users compare mutual fund performance and make data-driven investment decisions.
